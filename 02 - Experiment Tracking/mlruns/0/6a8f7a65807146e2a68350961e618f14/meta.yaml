@@ -1,0 +1,15 @@
+artifact_uri: file:///home/kiriyama/exp/mlruns/0/6a8f7a65807146e2a68350961e618f14/artifacts
+end_time: 1716920067814
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 6a8f7a65807146e2a68350961e618f14
+run_name: bold-squid-653
+run_uuid: 6a8f7a65807146e2a68350961e618f14
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1716920067807
+status: 4
+tags: []
+user_id: kiriyama

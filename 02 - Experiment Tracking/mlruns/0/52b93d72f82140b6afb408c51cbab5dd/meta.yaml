@@ -1,0 +1,15 @@
+artifact_uri: file:///home/kiriyama/exp/mlruns/0/52b93d72f82140b6afb408c51cbab5dd/artifacts
+end_time: 1716920100395
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 52b93d72f82140b6afb408c51cbab5dd
+run_name: colorful-seal-638
+run_uuid: 52b93d72f82140b6afb408c51cbab5dd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1716920087401
+status: 3
+tags: []
+user_id: kiriyama
